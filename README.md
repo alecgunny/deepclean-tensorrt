@@ -1,3 +1,5 @@
+View the plotted data at [nbviewer](https://nbviewer.jupyter.org/github/alecgunny/deepclean-tensorrt/blob/master/plot_throughput_latency.ipynb).
+
 ## Container build
 ```
 TAG=20.06
